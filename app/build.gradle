@@ -22,7 +22,7 @@ android {
 ext{
     androidSupportLibraryVersion = "26.1.0"
     butterKnifeVersion ="8.8.1"
-    glideVersion = "4.4.0"
+    glideVersion = "4.2.0"
 }
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
